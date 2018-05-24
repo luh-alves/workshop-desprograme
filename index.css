@@ -1,0 +1,25 @@
+h1{
+    color: cadetblue;
+}
+
+h2{
+    color: crimson;
+    
+}
+
+body{
+    color: #5d665b;
+    font-size: small;
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    background-color: #e8eae8;
+        
+}
+#primeira{
+
+    float:left;
+    margin:0 20px 10px 0;
+}
+#segunda{
+    float:right;
+    margin:0  40px 800px 0;
+}
